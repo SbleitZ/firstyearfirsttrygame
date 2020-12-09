@@ -8,6 +8,6 @@ estructuras simplemente por flojo, asi evitar usar los parametros.
 
 English:
  Game basic(very basic) made by Rodrigo, a student of engineering informatics of first year()
-this is not advanced for my knowledge, but neither so farway, i preferred to use struct for lazyness, for not to use parameters(sorry for my bad english)
+this is not advanced for my knowledge, but neither so farway, i preferred to use struct for laziness, for not to use parameters(sorry for my bad english)
 
 my game is so poor 
