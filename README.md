@@ -10,3 +10,4 @@ English:
  Game basic(very basic) made by Rodrigo, a student of engineering informatics of first year()
 this is not advanced for my knowledge, but neither so farway, i preferred to use struct for loose, for not to use parameters(sorry for my bad english)
 
+my game is so poor 
