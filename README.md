@@ -7,6 +7,6 @@ no es lo mas avanzado en torno a mis conocimientos, pero tampoco tan alejado, pr
 estructuras simplemente por flojo, asi evitar usar los parametros.
 
 English:
- Game basic(very basic) made for Rodrigo, a student of engineering informatics of first year()
+ Game basic(very basic) made by Rodrigo, a student of engineering informatics of first year()
 this is not advanced for my knowledge, but neither so farway, i preferred to use struct for loose, for not to use parameters(sorry for my bad english)
 
